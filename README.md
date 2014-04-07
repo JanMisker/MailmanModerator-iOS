@@ -1,7 +1,7 @@
 MailmanModerator-iOS
 ====================
 
-iPhone app to moderate a mailman list.
+iPhone app to moderate a mailman list. Available in the App Store: https://itunes.apple.com/us/app/mailman-moderator/id349100180?ls=1&mt=8 
 
 Very old code, was actually my first iOS project so please don't judge ;)
 
